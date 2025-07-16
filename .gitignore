@@ -1,0 +1,12 @@
+test/main.py
+test/test.js
+# 가상환경 및 빌드 파일 무시
+git_venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.sqlite3
+.env
+.DS_Store
+.vscode/
